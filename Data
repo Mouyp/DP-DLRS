@@ -1,1 +1,13 @@
-print('hello')
+'''
+Deep Learning Based Recommendation Systems
+Movielens (1M) Dataset from https://grouplens.org/datasets/movielens/1m/
+
+The MovieLens 1M dataset, released in February 2003, consists of:
+
+(1) Ratings data: Contains 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
+
+(2) Users data: Demographic information about the users (age, gender, occupation, zip code).
+
+(3) Movies data: Information about the movies (title and genre).
+
+'''
